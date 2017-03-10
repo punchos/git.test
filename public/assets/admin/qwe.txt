@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 asfsdfasdf
+=======
+master mother fucker
+>>>>>>> master
